@@ -19,6 +19,4 @@ client_scripts {
 	'client/main.lua'
 }
 
-version '1.2'
-
 

@@ -6,6 +6,10 @@
 # Asgard Money Orders by ArlenBales
 Simple billing system using oxLib with included automatic checks and triggers to only show what each person is supposed to see, payment requests are limited to players with approved jobs which you can set within the config, customers will only see option to pay an unpaid money order. Payments are made via cheque to remain lore friendly. System can be called with commands, target system, textUI, 3D Text and my free dialogs system. Automatically implements function for cash registers in saloons to support my Asgard Saloon player job and play run businesses and other future jobs that I have planned.
 
+# Previews
+- https://i.imgur.com/FRcV398.png
+- https://i.imgur.com/tI3LuSX.png
+
 # Dependancies
 - rsg-core
 - oxLib
